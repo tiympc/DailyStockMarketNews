@@ -1,6 +1,3 @@
-# DailyStockMarketNews
-
-# Milestones
 1. v0 (DONE): Write a script that will print the stock market news to my printer. 
 2. v1: Make the text aesthetic and organized.
 3. v3: Use OpenAI to summarize into shorter chunks.
